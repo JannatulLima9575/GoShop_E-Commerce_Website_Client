@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "GoShop | E-Commerce Website",
-  description: "",
+  description: "Buy and sell products easily on GoShop.",
 };
 
 export default function RootLayout({
